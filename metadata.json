@@ -1,0 +1,6 @@
+{
+  "name": "Forma Goods",
+  "description": "Architectural homeware, lighting, ceramics, and studio objects storefront with real-time inventory management, PostgreSQL persistence, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
